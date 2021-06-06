@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ScamCheckPages/static/css/main.b3342996.chunk.css",
-    "main.js": "/ScamCheckPages/static/js/main.c64ffb6d.chunk.js",
-    "main.js.map": "/ScamCheckPages/static/js/main.c64ffb6d.chunk.js.map",
+    "main.js": "/ScamCheckPages/static/js/main.4f7ee992.chunk.js",
+    "main.js.map": "/ScamCheckPages/static/js/main.4f7ee992.chunk.js.map",
     "runtime-main.js": "/ScamCheckPages/static/js/runtime-main.ad24073e.js",
     "runtime-main.js.map": "/ScamCheckPages/static/js/runtime-main.ad24073e.js.map",
     "static/js/2.bfc25276.chunk.js": "/ScamCheckPages/static/js/2.bfc25276.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.ad24073e.js",
     "static/js/2.bfc25276.chunk.js",
     "static/css/main.b3342996.chunk.css",
-    "static/js/main.c64ffb6d.chunk.js"
+    "static/js/main.4f7ee992.chunk.js"
   ]
 }
