@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_4"
@@ -33,19 +34,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1278"
-     inkscape:window-height="1368"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
      id="namedview26562"
      showgrid="false"
      inkscape:zoom="1.0332351"
-     inkscape:cx="488.56241"
-     inkscape:cy="275.90568"
-     inkscape:window-x="1273"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cx="370.00275"
+     inkscape:cy="345.58972"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="Layer_4" />
   <defs
      id="defs26361">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3636">
+      <stop
+         style="stop-color:#214aff;stop-opacity:1"
+         offset="0"
+         id="stop3632" />
+      <stop
+         style="stop-color:#2bd8ff;stop-opacity:1"
+         offset="1"
+         id="stop3634" />
+    </linearGradient>
     <style
        id="style26342">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:7px;}</style>
     <linearGradient
@@ -89,12 +102,22 @@
          stop-color="#ffdd01"
          id="stop26358" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3636"
+       id="linearGradient3638"
+       x1="27.678566"
+       y1="539.98599"
+       x2="1052.297"
+       y2="539.98599"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      class="cls-1"
      d="M398.75,792.62c31.45,28.7,60.86,61.12,92.48,89.67C527.45,915,568,943.46,612.16,957.6,718,991.49,812.08,909,875.3,837c24.57-28,44.93-61.13,54.15-99.35,5.89-24.41,7.4-51.17,19.65-72.06s33.78-33.14,50.89-49.67c31.55-30.47,48-76.4,51.45-123.83,7.37-102.37-33-217.71-113.09-287.8-85-74.44-191.06-121.81-283.84-64-44.46,27.73-96.94,41.75-150.69,41.26-55.31-.49-109.56-20-164.72-27.08-55-7-110.64-4.68-161.21,13.35-76.3,27.22-139.77,95-149,182.51-6.5,61.74,13.9,126.54,43.39,183.11C101.59,589.65,139,647.91,191.94,681.31c41.81,26.35,89.94,34.76,133.27,57.52C351.9,752.85,375.86,771.75,398.75,792.62Z"
      transform="translate(-27.71 -114.55)"
-     id="path26363" />
+     id="path26363"
+     style="fill:url(#linearGradient3638);fill-opacity:1" />
   <line
      class="cls-2"
      x1="352.28101"
